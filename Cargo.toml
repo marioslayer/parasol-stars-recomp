@@ -1,0 +1,3 @@
+[workspace]
+members = ["recomp", "runtime"]
+resolver = "2"

@@ -1,0 +1,11 @@
+[package]
+name = "parasol_stars"
+version = "0.1.0"
+edition = "2024"
+build = "build.rs"
+
+[dependencies]
+recomp = { path = "../recomp" }
+
+[build-dependencies]
+recomp = { path = "../recomp" }
